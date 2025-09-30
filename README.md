@@ -7,7 +7,7 @@
 - 🤔 &nbsp; Explore new opportunities and knowledge.
 - 🎓 &nbsp; Senior Technician in Programming (Teclab Senior Technician in Programming).
 - 💭 &nbsp; Diving deeper into the realm of web development, IT automation scripts and data science.
-- 🍭 &nbsp; Exercises, cooking and reading as hobbies.
+- 🍭 &nbsp; Exercises,music, cooking and reading as hobbies.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
