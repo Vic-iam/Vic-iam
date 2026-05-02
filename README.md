@@ -11,7 +11,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vic-iam&show_icons=true&theme=tokyonight" height="160"/>
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vic-iam&show_icons=true&theme=tokyonight&cache_seconds=1800)
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vic-iam&layout=compact&theme=tokyonight" height="160"/>
 </p>
 
