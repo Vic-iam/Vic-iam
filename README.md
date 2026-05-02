@@ -2,7 +2,7 @@
 <h3 align="center">💻 Front-End Developer | Building modern and scalable web applications</h3>
 
 <p align="center">
-  <img src="[[https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif](https://giphy.com/gifs/computador-gu-tecnology-bGgsc5mWoryfgKBx1u)](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWk2bm55cmdkbTRvOGdyeXQ1d3k3aGNzMzNqbTNmMzJyeXd5MnBkciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif)" alt="coding" />
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWk2bm55cmdkbTRvOGdyeXQ1d3k3aGNzMzNqbTNmMzJyeXd5MnBkciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" alt="coding" width="400"/>
 </p>
 
 
