@@ -123,7 +123,7 @@
 - 🔥 Firebase integration
 - 📱 Mobile-first design
 
-🔗 github.com/Vic-iam/CoderHouse/tree/main/my-app
+🔗[ github.com/Vic-iam/CoderHouse/tree/main/my-app](https://github.com/Vic-iam/CoderHouse/tree/main/my-app)
 
 ---
 
