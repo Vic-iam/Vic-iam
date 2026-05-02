@@ -92,6 +92,70 @@
 
 ---
 
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vic-iam&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vic-iam&layout=compact&theme=tokyonight" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=vic-iam&theme=tokyonight&hide_border=false"/>
+</p>
+
+---
+
+### 🚀 Featured Projects
+
+#### 🌐 Ciao Bella - Aesthetic Clinic Website
+> Modern website for a beauty clinic with booking system and responsive design.
+
+- ⚛️ React + Vite
+- 🎨 TailwindCSS / Custom CSS
+- 📅 Appointment booking system
+- 📍 Interactive maps (Leaflet)
+
+🔗 https://github.com/vic-iam/ciao-bella
+
+---
+
+#### 🛒 E-commerce Web App
+> Full responsive e-commerce with product management and cart system.
+
+- 🧠 React + Context API
+- 💳 Shopping cart logic
+- 🔥 Firebase integration
+- 📱 Mobile-first design
+
+🔗 https://github.com/vic-iam/ecommerce-app
+
+---
+
+#### 🚀 GravX - Modern Web Platform
+> Interactive and modern web application focused on performance, UI/UX and scalable architecture.
+
+- ⚛️ React + Vite
+- 🎨 TailwindCSS for modern UI
+- ⚡ Optimized performance and fast loading
+- 🧩 Component-based architecture
+- 📱 Fully responsive design
+
+🔗 https://github.com/vic-iam/gravx
+
+---
+
+#### 🌍 Personal Portfolio
+> My personal portfolio showcasing projects and skills.
+
+- 🎨 Modern UI/UX
+- 🌙 Dark/Light mode
+- ⚡ Optimized performance
+- 📩 Contact form
+
+🔗 https://github.com/vic-iam/portfolio
+
+---
+
 ### 💡 Quote
 
 > "Code is not just code, it's the experience you build for people."
