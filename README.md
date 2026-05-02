@@ -13,6 +13,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vic-iam&show_icons=true&theme=tokyonight&cache_seconds=1800" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vic-iam&layout=compact&theme=tokyonight" height="160"/>
+  <img src="https://streak-stats.demolab.com?user=Vic-iam&theme=tokyonight"/>
 </p>
 
 <p align="center">
