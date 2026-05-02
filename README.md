@@ -111,7 +111,7 @@
 - 📅 Appointment booking system
 - 📍 Interactive maps (Leaflet)
 
-🔗 https://github.com/vic-iam/CiaoBella
+🔗 https://github.com/vic-iam/ciaoBella
 
 ---
 
@@ -123,7 +123,7 @@
 - 🔥 Firebase integration
 - 📱 Mobile-first design
 
-🔗 https://github.com/vic-iam/coder-house
+🔗 https://github.com/vic-iam/coderhouse
 
 ---
 
