@@ -111,7 +111,7 @@
 - 📅 Appointment booking system
 - 📍 Interactive maps (Leaflet)
 
-🔗 https://github.com/vic-iam/ciaoWed
+🔗 https://github.com/vic-iam/CiaoWed
 
 ---
 
